@@ -10,7 +10,7 @@
 
 - Social coding
 - Learning
-- Resume/Achievements
+- Achievements
 
 ---
 
@@ -34,6 +34,18 @@
 > > Author Notes:  
 
 ---
+
+![](https://octodex.github.com/images/okal-eltocat.jpg)<!-- .element: style="width:300px" -->
+
+## Github Stats
+
+- 96 Million projects
+- 31 Million developers
+- 1.1 Billion contributions
+- 200 Million pull requests
+
+---
+
 ![](https://octodex.github.com/images/dodgetocat_v2.png)<!-- .element: style="width:300px" -->
 
 # Top Contributors
@@ -43,15 +55,7 @@
 - 14,059 Docker
 - 12,841 Angular
 
----
-![](https://octodex.github.com/images/okal-eltocat.jpg)<!-- .element: style="width:300px" -->
 
-## Github Stats
-
-- 96 Million projects
-- 31 Million developers
-- 1.1 Billion contributions
-- 200 Million pull requests
 
 ---
 
@@ -75,11 +79,17 @@
 
 ---
 
-![](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)<!-- .element: style="width:300px" -->
-
 ## Reasons
 
-Node, Angular, Vue, React, Linux, Tensorflow, Kotlin, TypeScript, PowerShell, Rust, Go, Python
+![](http://www.webdevelopmenthelp.net/wp-content/uploads/2017/01/nodejs.png)<!-- .element: style="width:200px" -->
+![](https://angular.io/assets/images/logos/angular/angular.svg)<!-- .element: style="width:200px" -->
+![](https://cdn.auth0.com/blog/vuejs/vue-logo.png)<!-- .element: style="width:200px" -->
+![](https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png)<!-- .element: style="width:200px" -->
+![](https://tse3.mm.bing.net/th?id=OIP.hYr3PjRLGAm7nluRO3PCcwHaIL&pid=Api&w=1979&h=2186&rs=1)<!-- .element: style="width:200px" -->
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/718px-Tensorflow_logo.svg.png)<!-- .element: style="width:200px" -->
+![](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)<!-- .element: style="width:200px" -->
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)<!-- .element: style="width:200px" -->
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/872px-Android_robot.svg.png)<!-- .element: style="width:200px" -->
 
 ---
 
